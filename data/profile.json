@@ -1,0 +1,73 @@
+{
+  "name": "Victor Vith Vieira",
+  "photo": "https://avatars.githubusercontent.com/u/173010306?v=4",
+  "job": "Junior developer",
+  "location": "Canela-RS",
+  "phone": "Formação em Analise e Desenvolvimento de Sistemas ",
+  "email": "victorvith1@outlook.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/Victor-Vith/portfolio/0b8807803db63b6ca49251099736c9b1bf39edb5/assets/img/icons/linguages/JS.svg"
+      },
+      {
+        "name": "Css",
+        "logo": "https://raw.githubusercontent.com/Victor-Vith/portfolio/0b8807803db63b6ca49251099736c9b1bf39edb5/assets/img/icons/linguages/Css.svg"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/Victor-Vith/portfolio/0b8807803db63b6ca49251099736c9b1bf39edb5/assets/img/icons/linguages/HTML.svg"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)",
+    "Alemão (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "criação de uma Pokedex",
+      "url": "https://github.com/Victor-Vith/JS-Pokedex",
+      "github": true
+    },
+    {
+      "name": "criação de uma página de portfolio",
+      "url": "https://github.com/Victor-Vith/portfolio",
+      "github": true
+    },
+    {
+      "name": "minhas formações na DIO",
+      "url": "https://www.dio.me/users/victorvith1",
+      "github": true
+    },
+    {
+      "name": "meu Linkedin",
+      "url": "www.linkedin.com/in/victor-v-v-16dev8",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Garçom Master / Hoteis Sky",
+      "period": "2019 - 2024",
+      "description": "Anos de muito aprendizado como profissional e como pessoa, construi muitas Habilidades."
+    }
+  ]
+}
